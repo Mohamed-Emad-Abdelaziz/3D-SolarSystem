@@ -10,8 +10,7 @@
 - **User-Friendly Navigation:** Enjoy smooth camera transitions and intuitive controls for an immersive experience.
 - **Expandable Design:** Easily add more celestial objects or additional information as the project evolves.
 
-## Screenshot
-![Alt text](https://media.sketchfab.com/models/6b5dc1ecf7e844a79de41167c563c80c/thumbnails/c971274ce9bc47f79b60f83bb4dd589d/ddbf08e80cda4a76babb46ea8c6f8818.jpeg))
+![Alt text](https://media.sketchfab.com/models/6b5dc1ecf7e844a79de41167c563c80c/thumbnails/c971274ce9bc47f79b60f83bb4dd589d/ddbf08e80cda4a76babb46ea8c6f8818.jpeg)
 
 ## Getting Started
 
