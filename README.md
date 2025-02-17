@@ -11,7 +11,7 @@
 - **Expandable Design:** Easily add more celestial objects or additional information as the project evolves.
 
 ## Screenshot
-![Alt text]([URL_or_relative_path_to_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsketchfab.com%2F3d-models%2Fsolar-system-in-scale-6b5dc1ecf7e844a79de41167c563c80c&psig=AOvVaw22YO4svkK78BTbK7fwgRWB&ust=1739892126599000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLibk7WBy4sDFQAAAAAdAAAAABAJ))
+![Alt text]([[URL_or_relative_path_to_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsketchfab.com%2F3d-models%2Fsolar-system-in-scale-6b5dc1ecf7e844a79de41167c563c80c&psig=AOvVaw22YO4svkK78BTbK7fwgRWB&ust=1739892126599000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCLibk7WBy4sDFQAAAAAdAAAAABAJ)](https://media.sketchfab.com/models/6b5dc1ecf7e844a79de41167c563c80c/thumbnails/c971274ce9bc47f79b60f83bb4dd589d/ddbf08e80cda4a76babb46ea8c6f8818.jpeg))
 
 ## Getting Started
 
